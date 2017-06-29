@@ -14,5 +14,5 @@
 #   Test Package:              'Cmd + Shift + T'
 
 hello <- function() {
-  "Hello, world!"
+  c("Hello, world!", sample(x, 1))
 }
